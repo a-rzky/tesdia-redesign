@@ -6,10 +6,7 @@
     <div class="max-w-7xl mx-auto px-6 flex items-center justify-between">
       <!-- Logo -->
       <a href="#" class="flex items-center gap-3">
-        <div class="w-9 h-9 rounded-xl flex items-center justify-center" style="background: linear-gradient(135deg, #e8c96e, #0ea5e9);">
-          <span class="text-dark-900 font-mono font-bold text-sm">DIA</span>
-        </div>
-        <span class="font-display text-xl text-white font-semibold">Tes<span class="text-gradient">DIA</span></span>
+        <img src="/public/images/Logo-Tes-DIA.png" alt="logo.tesdia" class="w-full h-10">
       </a>
 
       <!-- Desktop Nav -->

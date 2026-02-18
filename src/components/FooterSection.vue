@@ -21,10 +21,7 @@
       <div class="grid md:grid-cols-4 gap-10 border-t border-white/5 pt-12">
         <div class="md:col-span-2">
           <div class="flex items-center gap-3 mb-4">
-            <div class="w-9 h-9 rounded-xl flex items-center justify-center" style="background: linear-gradient(135deg, #e8c96e, #0ea5e9);">
-              <span class="text-dark-900 font-mono font-bold text-sm">DIA</span>
-            </div>
-            <span class="font-display text-xl text-white font-semibold">Tes<span class="text-gradient">DIA</span></span>
+            <img src="/public/images/Logo-Tes-DIA.png" alt="logotesdia" class="w-40 h-full">
           </div>
           <p class="text-slate-500 text-sm leading-relaxed max-w-sm">
             Dermatoglyphics Intelligence Analysis — teknologi analisis sidik jari untuk mengungkap potensi genetik terbaik Anda.
